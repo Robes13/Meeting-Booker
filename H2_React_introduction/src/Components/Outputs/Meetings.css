@@ -1,0 +1,27 @@
+.Text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-wrap: break-word; 
+    word-break: break-all; 
+}
+
+#meetingList {
+    margin-right: -50px;
+}
+
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+    vertical-align: top; 
+    max-width: 200px; 
+}
+
+th {
+    background-color: #1d1c1c;
+    font-weight: bold; 
+}
